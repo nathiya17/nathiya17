@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding field
 - 🌱 I’m currently learning BE.Biomedical Engineering
 - 💞️ I’m looking to collaborate on IT field
-- 📫 How to reach me through gmail
+- 📫 How to reach me through Gmail
 
 <!---
 nathiya17/nathiya17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
